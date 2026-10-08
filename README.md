@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="ATHENA, Software Developer in Frontend Development, UI/UX Design and Full-Stack Development. Terminal-style profile banner with an ASCII portrait, stack, projects and links.">
+  <img src="./dark.svg" alt="athena, Software Developer in Frontend Development, UI/UX Design and Full-Stack Development. Terminal-style profile banner with an ASCII portrait, stack, projects and links.">
 </picture>
 
 </div>
